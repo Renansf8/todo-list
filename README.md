@@ -1,3 +1,8 @@
+# Lista de tarefas 
+Projeto desenvolvido durante o curso da trybe, submetido à avaliação. O projeto tem por objetivo por em prática os conhecimentos adquiridos em HTML, CSS, Javascript, bem como a utilização do LocalStorage para salvar os dados.
+
+![todo-list](https://user-images.githubusercontent.com/60987449/118417145-2015b380-b689-11eb-96d5-67543fa96c59.png)
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do
